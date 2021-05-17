@@ -23,5 +23,5 @@ This data analysis uses Python to manipulate, transform and visualize the data. 
 
 # Results:
 
-Please refer to the results here: <a href= 'https://github.com/aadamante/cereals_EDA/blob/main/Cereals_Data_Exploration_Manipulation.ipynb' </a>.
+Please refer to the results here: <a href= 'https://github.com/aadamante/cereals_EDA/blob/main/Cereals_Data_Exploration_Manipulation.ipynb' /a>.
 
